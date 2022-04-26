@@ -1,16 +1,16 @@
-### Hi there 👋
+## About me
 
-<!--
-**qexat/qexat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Clarisse 👋  
+I am a French developer, music producer and designer. I go by `they/she`.  
 
-Here are some ideas to get you started:
+## Link tree
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Website](https://qexat.com) (under construction)
+- [SoundCloud](https://soundcloud.com/qexat)
+- [Discord](https://discord.qexat.com/)
+
+## GitHub Stats
+
+![Qexat's GitHub stats](https://github-readme-stats.vercel.app/api?username=qexat&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qexat&layout=compact)](https://github.com/qexat/qexat)
