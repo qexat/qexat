@@ -10,6 +10,6 @@ I am a French developer, music producer and designer.
 
 ## GitHub Stats
 
-![Qexat's GitHub stats](https://github-readme-stats.vercel.app/api?username=qexat&bg_color=90,000000,7c6474&title_color=f8c8e8&text_color=7c6474&hide_border=true)
+![Qexat's GitHub stats](https://github-readme-stats.vercel.app/api?username=qexat&bg_color=0,0D1117,0D1117&title_color=f8c8e8&text_color=7c6474&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qexat&bg_color=90,000000,7c6474&title_color=f8c8e8&text_color=7c6474&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qexat&bg_color=0,0D1117,0D1117&title_color=f8c8e8&text_color=7c6474&hide_border=true)
