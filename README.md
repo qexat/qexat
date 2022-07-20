@@ -1,12 +1,6 @@
 ## About me
 
-Hi, I am Clarisse 👋  
-I am a French developer, music producer and designer. 
-
-## Link tree
-
-- [Website](https://qexat.com)
-- [SoundCloud](https://soundcloud.com/qexat)
+Hi, I am Clarisse 👋
 
 ## GitHub Stats
 
