@@ -1,5 +1,9 @@
 # qexat
 
+[Programming languages](#programming-languages) · [Interests](#interests) · [Projects](#projects) · [Q/A](#qa) · [Links](#links)
+
+---
+
 **TL;DR**: Lexa, she/they, french CS student, nerd
 
 Hello :) my name is Clarisse, but people commonly call me Lexa (you might also see an alternative spelling, Lexhā). You can use `she` or `they` pronouns to refer to me, though I don't mind any other ones.
