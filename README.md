@@ -64,7 +64,7 @@ The language that I will make in a few years 😄
 
 ### What is a monad?
 
-Let $X$ be a category. A monad on $X$ is a functor $F : X \rightarrow X$ equipped with two natural transformations $a : id_X \rightarrow F$ and $b : F ∘ F \rightarrow F$ such that $b ∘ F b = b ∘ b F$ (associativity) and $b ∘ F a = b ∘ a F = id_F$ (identity). No, it is not a monoid, unless you stretch the definition of the latter a lot.
+Let $X$ be a category. A monad on $X$ is a functor $F : X \rightarrow X$ equipped with two natural transformations $a : id_X \rightarrow F$ and $b : F ∘ F \rightarrow F$ such that $b ∘ F b = b ∘ b F$ (associativity) and $b ∘ F a = b ∘ a F = id_F$ (identity).
 
 ### Do you listen to K-pop?
 
