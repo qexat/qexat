@@ -39,7 +39,8 @@ Outside of computer science and mathematics, I am a curious cat excited by many 
 
 The stuff I made that might interest you.
 
-- [kalmia](https://github.com/qexat/kalmia-theme/), a Visual Studio Code theme extension: pretty muted colors and a dimmed rose background. A high contrast variant is also available.
+- [rosalie](https://github.com/qexat/rosalie), a soothing light theme for Visual Studio Code and Neovim.
+- [kalmia](https://github.com/qexat/kalmia-theme), a soft dark theme for Visual Studio Code: pretty muted colors and a dimmed rose background. A high contrast variant is also available.
 - [anstrip](https://github.com/qexat/anstrip), a minimal Python package to strip (conditionally or not) ANSI escape sequences.
 - [coquille](https://github.com/qexat/Coquille), a rather low-level Python package that provides a friendlier interface to escape sequences to avoid hardcoding them in your string literals.
 
