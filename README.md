@@ -25,8 +25,6 @@ Special mention: languages which I sometimes write in, but rarely/never make ful
 - Haskell
 - Uiua
 
-Strict typing enthousiast, btw :)
-
 ## Interests
 
 My interests are directed towards **analysis** and **language design & implementation**. I am also a terminal (and its emulation) enthousiast, more specifically **enjoying writing pretty CLIs** for programs, jumping between ANSI sequences.
@@ -69,7 +67,7 @@ Let $X$ be a category. A monad on $X$ is a functor $F : X \rightarrow X$ equippe
 
 ### Do you listen to K-pop?
 
-Not just k-pop, but yes! A non-exhaustive list of my favorite groups: Dreamcatcher, Purple Kiss, Pixy, æspa, ATEEZ, Stray Kids.
+Not just k-pop, but yes! A non-exhaustive list of my favorite groups: Dreamcatcher, Pixy, Purple Kiss, æspa, NMIXX, Red Velvet, ATEEZ, Stray Kids, Xdinary Heroes.
 
 ## Links
 
