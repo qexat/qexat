@@ -9,3 +9,5 @@ I am a student in computer science speaking French and English, currently learni
 let main : IO
     io => io.stdout <- writeln "Hello, I am Lexa!"
 ```
+
+[![Programming Languages](https://skillicons.dev/icons?i=rust,ocaml,js,bash,py,c,ts)](https://skillicons.dev)
