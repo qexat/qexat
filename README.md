@@ -6,8 +6,7 @@ My name is Clarisse, but people commonly call me Lexa (you might also see an alt
 I am a student in computer science speaking French and English. I like abstract mathematics, linguistics, music and graphic design.
 
 ```ocaml
-let main : IO
-    io => io.stdout <- writeln "Hello, I am Lexa!"
+let () = IO.print_line $"Hello, I am Lexa!"
 ```
 
 [![Programming Languages](https://skillicons.dev/icons?i=rust,ocaml,js,bash,py,c,ts)](https://skillicons.dev)
